@@ -1,5 +1,9 @@
 # FUTURA-X
 
+<div align="center">
+<img src="profile/futura.png" alt="FUTURA Logo" width="1000"/>
+</div>
+
 **Building tomorrow’s engineering systems, today.**
 
 FUTURA-X is an experimental engineering and applied AI organization focused on turning ambitious ideas into practical, production-ready systems. We explore how modern software, AI agents, and automation can reshape how teams build, reason, and deliver technology.
