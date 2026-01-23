@@ -1,7 +1,7 @@
 # FUTURA-X
 
 <div align="center">
-<img src="profile/futura.png" alt="FUTURA Logo" width="1000"/>
+<img src="futura.png" alt="FUTURA Logo" width="1000"/>
 </div>
 
 **Building tomorrow’s engineering systems, today.**
