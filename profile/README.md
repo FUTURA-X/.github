@@ -48,20 +48,6 @@ This is a playground for **future-facing ideas**—from rough experiments to pol
 
 ---
 
-## 📦 Repositories
-
-Some of the projects you’ll find here include:
-
-* **ChatGPT-API-Scanner** – Scan GitHub repositories for exposed OpenAI API keys
-* **AI Strategy Factory** – Generate AI strategy deliverables in minutes
-* **Self-Improving System** – Experimental systems that learn and refine themselves
-* **Logo Creator** – OSS logo generator powered by modern generative models
-* **Spam & Classification Tools** – Practical ML systems for real-world data
-
-> Expect rapid iteration, bold ideas, and the occasional chaos.
-
----
-
 ## 🌱 Philosophy
 
 We believe:
