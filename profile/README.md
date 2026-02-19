@@ -1,5 +1,5 @@
 <div align="center">
-<img src="futura.png" alt="FUTURA Logo" width="1000"/>
+<img src="logo.png" alt="FUTURA Logo" width="1000"/>
 </div>
 
 
